@@ -1,0 +1,12 @@
+{
+  "item.realcraft.loose_iron_ore" : "Loose Iron Ore",
+  "item.realcraft.raw_iron_dust" : "Raw Iron Dust",
+  "item.realcraft.loose_stone" : "Loose Stone",
+  "item.realcraft.clay_bar_mold" : "Unbaked Ingot Smithing Mold",
+  "item.realcraft.bar_mold" : "Ingot Smithing Mold",
+  "item.realcraft.iron_bar_mold" : "Unrefined Iron Ingot in a Mold",
+  "block.realcraft.iron_ore_low": "Poor Iron Ore",
+  "block.realcraft.iron_ore_medium": "Medium Iron Ore",
+  "block.realcraft.gravel_layers" : "Gravel",
+  "creativetab.example_creative_tab" : "RealCraft"
+}

@@ -1,0 +1,10 @@
+{
+  "creativetab.example_creative_tab" : "RealCraft",
+  "block.realcraft.iron_ore_low": "Armes Eisenvorkommen",
+  "item.realcraft.loose_iron_ore" : "Roheisenerz",
+  "item.realcraft.raw_iron_dust": "Roheisenstaub",
+  "item.realcraft.loose_stone": "Findling",
+  "item.realcraft.bar_mold" : "Metallbarrenhohlform",
+  "item.realcraft.clay_bar_mold" : "Unfertige Metallbarrenhohlform",
+  "item.realcraft.gravel": "Geröll"
+}

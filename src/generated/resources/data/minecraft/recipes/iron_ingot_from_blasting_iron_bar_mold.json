@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 1000,
+  "experience": 0.35,
+  "group": "iron_ingot",
+  "ingredient": {
+    "item": "realcraft:iron_bar_mold"
+  },
+  "result": "minecraft:iron_ingot"
+}

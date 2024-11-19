@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "realcraft:bar_mold"
+    },
+    {
+      "item": "realcraft:raw_iron_dust"
+    },
+    {
+      "item": "realcraft:raw_iron_dust"
+    },
+    {
+      "item": "realcraft:raw_iron_dust"
+    },
+    {
+      "item": "realcraft:raw_iron_dust"
+    },
+    {
+      "item": "realcraft:raw_iron_dust"
+    },
+    {
+      "item": "realcraft:raw_iron_dust"
+    },
+    {
+      "item": "realcraft:raw_iron_dust"
+    },
+    {
+      "item": "realcraft:raw_iron_dust"
+    }
+  ],
+  "result": {
+    "item": "realcraft:iron_bar_mold"
+  }
+}

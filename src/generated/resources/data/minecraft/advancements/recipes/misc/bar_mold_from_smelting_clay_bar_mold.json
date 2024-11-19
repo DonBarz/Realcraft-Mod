@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_clay_bar_mold": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "realcraft:clay_bar_mold"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:bar_mold_from_smelting_clay_bar_mold"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_clay_bar_mold",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:bar_mold_from_smelting_clay_bar_mold"
+    ]
+  },
+  "sends_telemetry_event": false
+}

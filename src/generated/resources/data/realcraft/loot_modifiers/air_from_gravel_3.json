@@ -1,0 +1,15 @@
+{
+  "type": "realcraft:add_item",
+  "amount": 1,
+  "conditions": [
+    {
+      "block": "minecraft:gravel",
+      "condition": "minecraft:block_state_property"
+    },
+    {
+      "chance": 0.3,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "realcraft:gravel"
+}

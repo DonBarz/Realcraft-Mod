@@ -1,0 +1,17 @@
+{
+  "entries": [
+    "realcraft:loose_stone_from_cobblestone_replace",
+    "realcraft:air_from_gravel_4",
+    "realcraft:air_from_gravel_replace",
+    "realcraft:flint_from_gravel_1",
+    "realcraft:air_from_gravel_1",
+    "realcraft:air_from_gravel_2",
+    "realcraft:air_from_gravel_3",
+    "realcraft:loose_stone_from_cobblestone_5",
+    "realcraft:loose_stone_from_cobblestone_4",
+    "realcraft:loose_stone_from_cobblestone_3",
+    "realcraft:loose_stone_from_cobblestone_2",
+    "realcraft:loose_stone_from_cobblestone_1"
+  ],
+  "replace": false
+}

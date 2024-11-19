@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "layers=1": {
+      "model": "realcraft:block/gravel_layers_2"
+    },
+    "layers=2": {
+      "model": "realcraft:block/gravel_layers_4"
+    },
+    "layers=3": {
+      "model": "realcraft:block/gravel_layers_6"
+    },
+    "layers=4": {
+      "model": "realcraft:block/gravel_layers_8"
+    },
+    "layers=5": {
+      "model": "realcraft:block/gravel_layers_10"
+    },
+    "layers=6": {
+      "model": "realcraft:block/gravel_layers_12"
+    },
+    "layers=7": {
+      "model": "realcraft:block/gravel_layers_14"
+    },
+    "layers=8": {
+      "model": "realcraft:block/gravel_layers_16"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "realcraft:replace_item",
+  "amount": 4,
+  "conditions": [
+    {
+      "block": "minecraft:cobblestone",
+      "condition": "minecraft:block_state_property"
+    }
+  ],
+  "item": "realcraft:loose_stone"
+}

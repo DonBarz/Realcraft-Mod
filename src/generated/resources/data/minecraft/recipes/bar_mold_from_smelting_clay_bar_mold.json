@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 1000,
+  "experience": 0.35,
+  "group": "ingot_mold",
+  "ingredient": {
+    "item": "realcraft:clay_bar_mold"
+  },
+  "result": "realcraft:bar_mold"
+}
