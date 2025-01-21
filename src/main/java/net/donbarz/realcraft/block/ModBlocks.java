@@ -1,5 +1,6 @@
 package net.donbarz.realcraft.block;
 
+import net.donbarz.realcraft.block.GravityLayerBlocks.GravityLayersBlock;
 import net.donbarz.realcraft.item.ModItems;
 import net.donbarz.realcraft.RealCraft;
 import net.minecraft.world.item.BlockItem;
