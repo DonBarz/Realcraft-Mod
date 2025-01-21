@@ -46,8 +46,7 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> GRAVEL_LAYERS
             = registerLayeredBlock("gravel_layers", () ->
-            new GravelLayersBlock(BlockBehaviour.Properties.copy(Blocks.GRAVEL)
-                    .noLootTable()
+            new GravityLayersBlock(BlockBehaviour.Properties.copy(Blocks.GRAVEL)
             ),"gravel");
 
     //public static final RegistryObject<Block> DIRT_LAYERS

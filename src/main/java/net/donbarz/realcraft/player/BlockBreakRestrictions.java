@@ -20,7 +20,7 @@ public class BlockBreakRestrictions {
 
     @SubscribeEvent
     public void onBreakSpeed(PlayerEvent.BreakSpeed event) {
-        event.setNewSpeed(0.25f); //set miningspeed to 25% cus realism n shit
+        event.setNewSpeed(event.getNewSpeed()*0.25f); //set miningspeed to 25% cus realism n shit
         Player player = event.getEntity();
         BlockState state = event.getState();
         Block block = state.getBlock();
